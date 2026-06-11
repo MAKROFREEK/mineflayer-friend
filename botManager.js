@@ -30,6 +30,7 @@ function createBot(id) {
     port: CONFIG.port,
     username: username,
     version: CONFIG.version,
+    localAddress: `10.0.20.${id + 1}`
     // proxies: config.proxies;
   });
 
