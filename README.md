@@ -1,5 +1,3 @@
-Markdown
-
 # Mineflayer-Friend
 
 An all-in-one bot framework for Minecraft based on [Mineflayer](https://github.com/PrismarineJS/mineflayer), designed for automation, combat, and companionship.
